@@ -1,0 +1,47 @@
+.callout {
+    font-style: italic;
+    font-weight: 700;
+    color: coral;
+}
+img{
+    max-width: 100%;
+}
+
+.country-info {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1{
+    text-align:center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 350%;
+}
+body{
+    background-color: indianred;
+}
+
+p {
+    color: #1d1d1d;
+}
+.header{
+    background-color: red;
+    background: url(https://thumbs.dreamstime.com/t/8500px-clouds-panorama-14629564.jpg) no-repeat;
+    background-size: cover;
+    background-position: 0px -77px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    top: 0;
+    height: 100px;
+}
+
+h2{
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 250%;
+}
+
+h3 {
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 200%;
+}
